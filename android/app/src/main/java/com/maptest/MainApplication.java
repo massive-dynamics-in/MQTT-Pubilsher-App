@@ -1,4 +1,4 @@
-package com.maptest;
+package in.massive_dynamics.mqtt_publisher;
 
 import android.app.Application;
 import android.content.Context;
